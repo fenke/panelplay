@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "panelplay"
+  site-url: "https://fenke.github.io/panelplay"
+  description: "Playing with Holoviz/Panel"
+  repo-branch: main
+  repo-url: "https://github.com/fenke/panelplay"

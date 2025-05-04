@@ -1,0 +1,9 @@
+jupyter 
+jupyterlab 
+jupyterlab-git 
+jupyterlab-quarto
+nbdev
+panel 
+watchfiles 
+jupyter_bokeh 
+ipykernel
