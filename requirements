@@ -1,3 +1,7 @@
+numpy
+pandas
+hvplot
+matplotlib
 jupyter 
 jupyterlab 
 jupyterlab-git 
